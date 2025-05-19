@@ -3,8 +3,11 @@ Automation of DDoS detection and response workflows
 
 The objectives were:
 a)	Analyze traffic flow characteristics: request count and packet size.
+
 b)	Detect DDoS behaviors and classify them by type (protocol and volumetric).
+
 c)	Identify attacking IP addresses.
+
 d)	Automate notifications and mitigation actions.
 
 
